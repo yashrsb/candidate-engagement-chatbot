@@ -30,12 +30,12 @@ Candidate information is collected from free-form input using the following appr
 
 ### Step-by-step:
 
-1. Folder Location: Project present in `candidate-engagement-bot-yashrsb/`.
-
-2. Navigate to the project folder:
+1. Clone the repository:
 ```bash
-cd candidate-engagement-bot-yashrsb
+git clone https://github.com/yashrsb/candidate-engagement-chatbot
+cd candidate-engagement-chatbot
 ```
+
 
 3. Install all dependencies:
 ```bash
